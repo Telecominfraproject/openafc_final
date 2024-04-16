@@ -1,0 +1,3 @@
+As of 03/26/2024, the open afc code development has been graduated from TIP and as such the code is locked here: https://github.com/Telecominfraproject/open-afc
+
+The open afc code development has been migrated to here: https://github.com/open-afc-project/openafc/.
